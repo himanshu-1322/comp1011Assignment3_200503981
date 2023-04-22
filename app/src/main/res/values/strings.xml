@@ -3,4 +3,6 @@
 
     <string name="main_activity_title">Classic Motors</string>
     <string name="image_alt">Android image description</string>
+    <string name="main_activity_viewvehiclebutton_title">View Vehicles</string>
+    <string name="main_activity_addvehiclebutton_title">Add Vehicles</string>
 </resources>
